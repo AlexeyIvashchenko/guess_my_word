@@ -1,1 +1,1 @@
-# guess_my_word
+A two-player game where the goal is to guess the opponent's word. Using a hint and the first letter, you need to find a 5-letter word. The game uses sockets over TCP to communicate with the server. PyQT is used for the visual part.
